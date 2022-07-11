@@ -1,0 +1,1 @@
+cmd_/home/tim/Dokumente/Uni/Ethical_Hacking/Challenge_3/Files/kernel_module/hello.mod := { echo  /home/tim/Dokumente/Uni/Ethical_Hacking/Challenge_3/Files/kernel_module/hello.o;  echo; } > /home/tim/Dokumente/Uni/Ethical_Hacking/Challenge_3/Files/kernel_module/hello.mod

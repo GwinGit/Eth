@@ -1,0 +1,50 @@
+Begin emission:
+Finished sending 1 packets.
+
+Received 2 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 3 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 9 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 6 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+Begin emission:
+Finished sending 1 packets.
+
+Received 1 packets, got 1 answers, remaining 0 packets
+----------------------------------------
+Successfull Answer using ttl 12

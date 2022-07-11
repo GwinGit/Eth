@@ -1,0 +1,4 @@
+pip3 install frida-tools
+
+# for GNU/Linux
+sudo sysctl kernel.yama.ptrace_scope=0
